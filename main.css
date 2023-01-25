@@ -1,0 +1,67 @@
+*{
+    font-family: "kalam";
+    /* text-align: center; */
+    justify-items: center;
+
+    margin: 0;
+}
+.top{
+    
+    padding: 10px; 
+    background-color:#F2C94C;
+    justify-items: center;
+
+   
+}
+.top-heading{
+    text-align: center;
+    font-family: "kalam";
+}
+.inner{
+    justify-items: center;
+    
+    padding: 10px; 
+}
+textarea{
+  width:571px;
+  height:141px;
+  font-size: 16px;
+    color: black;
+  
+}
+textarea:focus{
+border: black 2px solid;
+}
+.output{
+    margin-left:450px;
+    margin-right:450px;
+
+}
+.output-heading{
+    font-family: 200;
+   
+}
+.output-result{
+    text-align: center;
+    padding: 1rem;
+    height: 100px;
+    box-sizing: border-box;   
+    border: black solid 2px;
+}
+ .main{
+text-align: center;
+
+ }
+ .footer{
+    background-color: #F2C94C;
+    padding-top: 50px;
+    height:150px;
+    justify-content: center;
+    margin-top: 50px;
+text-align: center;
+ }
+ p{
+    
+    text-align: center;
+    margin:25px;
+ }
